@@ -1,17 +1,9 @@
-The goal of this project is to write a game in JavaScript as a fun activity to do with my kids.  It began by watching
-a live coding demonstration by Mary Rose Cook at Front-Trends 2014, where she recreated the game Space Invaders in
-JavaScript.  You can find a video of the demonstration here:
+The goal of this project is to write a game in JavaScript as a fun activity to do with my kids.  It began by watching a live coding demonstration by Mary Rose Cook at Front-Trends 2014, where she recreated the game Space Invaders in JavaScript.  You can find a video of the demonstration here:
 
 http://vimeo.com/105955605
 
-I got about half way through the demonstration during lunch one day.  Then I showed the results to my kids, who were
-surprisingly interested, not just in the game, but in the coding process.  From that point forward, I stopped watching
-the video and we started coding features they wanted in the game.  It was a great experience for me, as I shared some
-of the ideas behind Agile software development with them - groomed backlog, prioritizing features, flexible coding decisions
-, etc. - using words I felt they could understand.
+I got about half way through the demonstration during lunch one day.  Then I showed the results to my kids, who were surprisingly interested, not just in the game, but in the coding process.  From that point forward, I stopped watching the video and we started coding features they wanted in the game.  It was a great experience for me, as I shared some of the ideas behind Agile software development with them - groomed backlog, prioritizing features, flexible coding decisions, etc. - using words I felt they could understand.
 
-In the end, we had a great time and this game is the result, and it continues to develop.  I wanted to put it up on GitHub
-to share with others and potentially inspire people to make time to share experiences like this with their kids, as it
-is both fun and rewarding.
+In the end, we had a great time and this game is the result, and it continues to develop.  I wanted to put it up on GitHub to share with others and potentially inspire people to make time to share experiences like this with their kids, as it is both fun and rewarding.
 
 To play, just open the index.htm file in a browser that supports HTML5 and has JavaScript enabled (i.e. do not use IE).
